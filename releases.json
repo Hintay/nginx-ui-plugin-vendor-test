@@ -1,6 +1,19 @@
 {
   "releases": [
     {
+      "version": "1.0.1",
+      "released_at": "2026-10-18T06:00:00Z",
+      "channel": "stable",
+      "min_nginx_ui_version": "2.9.0",
+      "release_notes_url": "https://github.com/Hintay/nginx-ui-plugin-vendor-test/releases/tag/v1.0.1",
+      "downloads": {
+        "any": {
+          "url": "https://github.com/Hintay/nginx-ui-plugin-vendor-test/releases/download/v1.0.1/dev.acmetest.notes-1.0.1.tar.gz",
+          "sha256": "80c249fd62498bbcd308041bc31b4492d901302e18714a06db0d5b49d6f2724d"
+        }
+      }
+    },
+    {
       "version": "1.0.0",
       "released_at": "2026-10-18T00:00:00Z",
       "channel": "stable",
